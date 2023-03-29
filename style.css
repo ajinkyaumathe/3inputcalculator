@@ -1,0 +1,55 @@
+.heading{
+    text-align: center;
+}
+
+.Answer{
+    text-align: center;
+    font-size: 16px;
+}
+
+input[type=submit] {
+    width: 80%;
+    background-color: rgb(73, 129, 232);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: center;
+    
+  }
+  .form-inline {  
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    padding: 30px  30px;
+    
+  }
+
+  .form-inline input{
+    padding: 10px 80px;
+    border: 2px solid black;
+    border-radius: 10%;
+  }
+
+.Number-2{
+    align-items: right;
+}
+
+#operator{
+    width: 15%;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10%;
+}
+
+.answer{
+    padding: 10px 20px ;
+}
+.answer input{
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 10%;
+}
